@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2607b25fe61390f41bb11e55b8beb787, type: 3}
+  m_Name: I'm fine
+  m_EditorClassIdentifier: Assembly-CSharp::TalkObject
+  DialogueType: 0
+  DialogueTree:
+  - Dialogue: That's good
+    Answer: {fileID: 0}
+    CamPos: 1
+    ForceLeave: 0
+  - Dialogue: Good to hear
+    Answer: {fileID: 0}
+    CamPos: 2
+    ForceLeave: 0
